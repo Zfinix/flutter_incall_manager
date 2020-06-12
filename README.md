@@ -3,11 +3,14 @@
 ## Port from [react-native-incall-manager](https://github.com/zxcpoiu/react-native-incall-manager)
 
 * Handling media-routes/sensors/events during a audio/video chat on Flutter
+
 ## USE:
-   ` flutter_incall_manager:
+
+```dart
+    flutter_incall_manager:
         git:
         url: git://github.com/Zfinix/flutter_incall_manager.git
-    `
+```
 
 ## API:
 
